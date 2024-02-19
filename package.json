@@ -2,10 +2,10 @@
   "name": "finaltest",
   "version": "1.0.0",
   "type": "module",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "jest",
-    "start": "nodemon index.js"
+    "start": "nodemon server.js"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.2.0",
